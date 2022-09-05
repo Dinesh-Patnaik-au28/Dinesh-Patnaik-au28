@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dinesh Patnaik
-- 👀 I’m interested in Frontend Devlopment
+- 👀 I’m interested in Frontend Devlopment And Backend Development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Backend Devlopment
+- 💞️ I’m looking to collaborate Frontend Development And Backend Development
 - 📫 To reach me dineshpatnaik54@gmail.com
 
 <!---
